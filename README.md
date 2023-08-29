@@ -4,4 +4,8 @@ These are my solutions for the problems of the project Euler I have solved writt
 
 !!! Caution: Please if you have not solved the questions, do not look at the solutions. These solutions have only been provided for my resume.
 
-I have currently solved 42 problems ... 
+<<<<<<< HEAD
+I have currently solved 43 problems ... 
+=======
+I have currently solved 43 problems ... 
+>>>>>>> 65d16c4 (solved question 43)
